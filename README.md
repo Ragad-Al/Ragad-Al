@@ -8,37 +8,6 @@ I recently completed an **MSc in Bioinformatics with Distinction** at the Univer
 
 I enjoy transforming complex data into clear, practical insights that support better decisions. I am currently completing a **Data Technician Skills Bootcamp with Leeptalent**, where I am developing hands-on experience in data preparation, analysis, visualisation, modelling, and reporting.
 
-## Technical Skills
-
-### Data Analysis and Visualisation
-
-- Power BI
-- Tableau
-- Microsoft Excel
-- PivotTables and PivotCharts
-- Dashboard design
-- Data storytelling
-- KPI reporting
-- Business analysis
-
-### Data Preparation and Modelling
-
-- Power Query
-- DAX
-- Data cleaning
-- Data validation
-- Star-schema modelling
-- Fact and dimension tables
-- Relationship management
-- Date dimensions
-
-### Programming and Databases
-
-- SQL
-- Python
-- Git and GitHub
-- Microsoft Azure
-- Automated data workflows
 
 ## Featured Projects
 
@@ -76,6 +45,38 @@ An Excel portfolio project analysing retail sales and student performance using 
 ### [Excel PivotTables and Visualisation](https://github.com/Ragad-Al/excel-pivottables-and-visualisation)
 
 An Excel project demonstrating PivotTables, PivotCharts, slicers, dashboard design, and business reporting.
+
+## Technical Skills
+
+### Data Analysis and Visualisation
+
+- Power BI
+- Tableau
+- Microsoft Excel
+- PivotTables and PivotCharts
+- Dashboard design
+- Data storytelling
+- KPI reporting
+- Business analysis
+
+### Data Preparation and Modelling
+
+- Power Query
+- DAX
+- Data cleaning
+- Data validation
+- Star-schema modelling
+- Fact and dimension tables
+- Relationship management
+- Date dimensions
+
+### Programming and Databases
+
+- SQL
+- Python
+- Git and GitHub
+- Microsoft Azure
+- Automated data workflows
 
 ## Academic and Professional Background
 
