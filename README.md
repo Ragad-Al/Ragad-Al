@@ -101,6 +101,7 @@ These experiences strengthened my:
 - Tableau dashboard development
 - Microsoft Azure
 - GitHub portfolio documentation
+- Completed Microsoft Azure Data Fundamentals practical labs covering Azure SQL Database, Azure Storage, Azure Cosmos DB, Microsoft Fabric, and Power BI.
 
 ## Career Interests
 
