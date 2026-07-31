@@ -6,8 +6,7 @@ I am a Birmingham-based data professional with a strong academic background in d
 
 I recently completed an **MSc in Bioinformatics with Distinction** at the University of Birmingham. I also hold a **Master’s degree in Software Engineering** and a **Bachelor’s degree in Computer Science**.
 
-I enjoy transforming complex data into clear, practical insights that support better decisions. I am currently completing a **Data Technician Skills Bootcamp with Leeptalent**, where I am developing hands-on experience in data preparation, analysis, visualisation, modelling, and reporting.
-
+I enjoy transforming complex data into clear, practical insights that support better decisions. I recently completed a Data Technician Skills Bootcamp with Leeptalent, where I developed hands-on experience in data preparation, analysis, visualisation, modelling, and reporting. I am currently awaiting certification.
 
 ## Featured Projects
 
@@ -94,7 +93,7 @@ These experiences strengthened my:
 - Technical documentation
 - Ability to explain complex ideas clearly
 
-## Currently Developing
+## Continuing Professional Development
 
 - Advanced SQL analysis
 - Python for data analysis
