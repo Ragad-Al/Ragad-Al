@@ -6,7 +6,7 @@ I am a Birmingham-based data professional with a strong academic background in d
 
 I recently completed an **MSc in Bioinformatics with Distinction** at the University of Birmingham. I also hold a **Master’s degree in Software Engineering** and a **Bachelor’s degree in Computer Science**.
 
-I enjoy transforming complex data into clear, practical insights that support better decisions. I recently completed a Data Technician Skills Bootcamp with Leeptalent, where I developed hands-on experience in data preparation, analysis, visualisation, modelling, and reporting. I am currently awaiting certification.
+I enjoy transforming complex data into clear, practical insights that support better decisions. I recently completed a Data Technician Skills Bootcamp with Leeptalent, where I developed hands-on experience in data preparation, analysis, visualisation, modelling, and reporting using Excel, SQL, Python, Power BI, Tableau, Microsoft Azure, and GitHub.
 
 ## Featured Projects
 
@@ -24,22 +24,49 @@ A three-page interactive Power BI report analysing global sales, profitability, 
 - Customer and regional analysis
 - Interactive slicers and page navigation
 
-### [Spotify Audio Features Tableau Dashboard](https://github.com/Ragad-Al/tableau-spotify-audio-features-dashboard)
+### [SQL World Database Analysis](https://github.com/Ragad-Al/sql-world-database-analysis)
 
-An interactive Tableau project exploring genre popularity, audio-feature profiles, energy, danceability, and leading tracks.
+A SQL portfolio project using the MySQL World database to explore countries, cities, populations, GDP, and regional patterns through relational data analysis.
 
 **Skills demonstrated:**
 
-- Large dataset analysis
-- Measure aggregation
-- Context filters
-- Dynamic titles
-- Scatter plots and trend lines
-- Interactive dashboard design
+- SQL filtering and sorting
+- Aggregate functions
+- GROUP BY analysis
+- INNER JOINs
+- Subqueries
+- Calculated fields
+- Population and GDP analysis
+- LIMIT and OFFSET
 
-### [Excel Foundations Analysis](https://github.com/Ragad-Al/excel-foundations-analysis)
+### [Python GDP Data Analysis](https://github.com/Ragad-Al/python-gdp-data-analysis)
 
-An Excel portfolio project analysing retail sales and student performance using formulas, charts, PivotTables, and data-driven insights.
+A Python data analysis project exploring GDP per capita data through data cleaning, exploratory analysis, statistical techniques, and visualisation.
+
+**Skills demonstrated:**
+
+- pandas
+- NumPy
+- Data cleaning
+- Exploratory data analysis
+- Statistical analysis
+- Matplotlib
+- Seaborn
+- Outlier investigation using the IQR method
+
+### [Global Health Inequality Tableau Dashboard](https://github.com/Ragad-Al/tableau-global-health-inequality-dashboard)
+
+An interactive Tableau dashboard exploring global health inequalities and comparing patterns across countries and regions.
+
+**Skills demonstrated:**
+
+- Tableau dashboard design
+- Data visualisation
+- Comparative analysis
+- Interactive filtering
+- Geographic analysis
+- KPI and trend interpretation
+- Data storytelling
 
 ### [Excel PivotTables and Visualisation](https://github.com/Ragad-Al/excel-pivottables-and-visualisation)
 
@@ -93,22 +120,20 @@ These experiences strengthened my:
 - Technical documentation
 - Ability to explain complex ideas clearly
 
-## Continuing Professional Development
+## Current Focus
 
-- Advanced SQL analysis
-- Python for data analysis
-- Power BI and DAX
-- Tableau dashboard development
-- Microsoft Azure
-- GitHub portfolio documentation
-- Completed Microsoft Azure Data Fundamentals practical labs covering Azure SQL Database, Azure Storage, Azure Cosmos DB, Microsoft Fabric, and Power BI.
+- Building and refining practical data analysis portfolio projects
+- Strengthening my Python, SQL, Power BI, Tableau, and data visualisation skills
+- Preparing for Data Analyst, Business Intelligence, Reporting, and Performance Analyst opportunities in the UK
 
 ## Career Interests
 
 I am currently seeking opportunities including:
 
 - Data Analyst
+- Junior Data Analyst
 - Business Intelligence Analyst
+- Reporting Analyst
 - Performance Analyst
 - Data Technician
 
@@ -118,4 +143,4 @@ I am particularly interested in roles where I can combine technical analysis, cl
 
 - **Location:** Birmingham, United Kingdom
 - **GitHub:** [github.com/Ragad-Al](https://github.com/Ragad-Al)
-- **LinkedIn:** (https://www.linkedin.com/in/ragad-alfatih-0b1b7a84/)
+- **LinkedIn:** [linkedin.com/in/ragad-alfatih-0b1b7a84](https://www.linkedin.com/in/ragad-alfatih-0b1b7a84/)
