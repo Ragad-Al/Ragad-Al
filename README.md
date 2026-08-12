@@ -14,59 +14,17 @@ I enjoy transforming complex data into clear, practical insights that support be
 
 A three-page interactive Power BI report analysing global sales, profitability, products, customers, and regional performance.
 
-**Skills demonstrated:**
-
-- Power Query data preparation
-- Star-schema modelling
-- DAX measures
-- Time-intelligence calculations
-- Product profitability analysis
-- Customer and regional analysis
-- Interactive slicers and page navigation
-
 ### [SQL World Database Analysis](https://github.com/Ragad-Al/sql-world-database-analysis)
 
 A SQL portfolio project using the MySQL World database to explore countries, cities, populations, GDP, and regional patterns through relational data analysis.
-
-**Skills demonstrated:**
-
-- SQL filtering and sorting
-- Aggregate functions
-- GROUP BY analysis
-- INNER JOINs
-- Subqueries
-- Calculated fields
-- Population and GDP analysis
-- LIMIT and OFFSET
 
 ### [Python GDP Data Analysis](https://github.com/Ragad-Al/python-gdp-data-analysis)
 
 A Python data analysis project exploring GDP per capita data through data cleaning, exploratory analysis, statistical techniques, and visualisation.
 
-**Skills demonstrated:**
-
-- pandas
-- NumPy
-- Data cleaning
-- Exploratory data analysis
-- Statistical analysis
-- Matplotlib
-- Seaborn
-- Outlier investigation using the IQR method
-
 ### [Global Health Inequality Tableau Dashboard](https://github.com/Ragad-Al/tableau-global-health-inequality-dashboard)
 
 An interactive Tableau dashboard exploring global health inequalities and comparing patterns across countries and regions.
-
-**Skills demonstrated:**
-
-- Tableau dashboard design
-- Data visualisation
-- Comparative analysis
-- Interactive filtering
-- Geographic analysis
-- KPI and trend interpretation
-- Data storytelling
 
 ### [Excel PivotTables and Visualisation](https://github.com/Ragad-Al/excel-pivottables-and-visualisation)
 
