@@ -22,6 +22,10 @@ A SQL portfolio project using the MySQL World database to explore countries, cit
 
 A Python data analysis project exploring GDP per capita data through data cleaning, exploratory analysis, statistical techniques, and visualisation.
 
+### [Biomedical Data Harmonisation Pipeline](https://github.com/Ragad-Al/biomedical-data-harmonisation-pipeline)
+
+MSc Bioinformatics project using Python and Nextflow to profile, map, validate, and harmonise multimodal biomedical datasets for downstream knowledge graph integration.
+
 ### [Global Health Inequality Tableau Dashboard](https://github.com/Ragad-Al/tableau-global-health-inequality-dashboard)
 
 An interactive Tableau dashboard exploring global health inequalities and comparing patterns across countries and regions.
