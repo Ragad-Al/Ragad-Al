@@ -2,7 +2,7 @@
 
 ## Data Analyst | Business Intelligence | Bioinformatics
 
-I am a Birmingham-based data professional with a strong academic background in data analysis, software engineering, computer science, and bioinformatics.
+I am a Birmingham-based data analyst with a multidisciplinary background in data analysis, software engineering, computer science, and bioinformatics.
 
 I recently completed an **MSc in Bioinformatics with Distinction** at the University of Birmingham. I also hold a **Master’s degree in Software Engineering** and a **Bachelor’s degree in Computer Science**.
 
@@ -60,10 +60,16 @@ An Excel project demonstrating PivotTables, PivotCharts, slicers, dashboard desi
 
 ### Programming and Databases
 
-- SQL
 - Python
+- pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL
+- MySQL
 - Git and GitHub
-- Microsoft Azure
+- Microsoft Azure fundamentals
+- Nextflow
 - Automated data workflows
 
 ## Academic and Professional Background
